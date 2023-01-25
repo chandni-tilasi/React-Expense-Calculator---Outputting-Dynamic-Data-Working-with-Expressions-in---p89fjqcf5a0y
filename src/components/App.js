@@ -38,7 +38,7 @@ const App = () => {
         </ul>
       </div>
       <div id="total-expense">
-        Total Expense: {`${paisa}`}
+        Total Expense: 400
       </div>
     </div>
   )
